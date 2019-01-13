@@ -1,6 +1,8 @@
 # study-note
 前端新人学习笔记
+
 # 作者
+
 冯将军
           
 # git 
@@ -19,7 +21,7 @@ git clone [远程 git 地址]
     * git checkout master
 ## 提交命令
      
-1. git add ./ 
+1. git add ./git.md
     *  把本地文件保存到本地仓库
 2. git commit -m '提交概括'  
     * 把本地文件的最新修改提交到本地仓库
@@ -28,9 +30,4 @@ git clone [远程 git 地址]
 # git 查看文件修改状态
 1. git status
     * 查看当前项目文件夹有哪些文件被修改
-·   **
 
-# 前端三大块
-* html
-* css
-* javascript ，简称 js。
